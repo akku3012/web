@@ -1,0 +1,34 @@
+h1{
+    color: black;
+}
+* {
+    border:outsetA;
+}
+* {
+    background-color:#eeaa77 ;
+     
+}
+h1{
+    font-style: oblique;
+    
+    text-align : center;
+}
+h2{
+    font-style: oblique;
+    text-align: center;
+    color: black;
+}
+p{
+    text-align: justify;
+     font-style: oblique;
+     color: rgb(26, 10, 68);
+}
+img {
+   align-self: start;
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
